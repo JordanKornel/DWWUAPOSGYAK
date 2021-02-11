@@ -1,0 +1,2 @@
+# DWWUAPOSGYAK
+OS tárgy
