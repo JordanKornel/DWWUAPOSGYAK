@@ -1,2 +1,2 @@
-# DWWUAPOSGYAK
+# DWWUAPOsGYAK
 OS tárgy
