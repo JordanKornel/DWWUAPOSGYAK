@@ -1,0 +1,6 @@
+a=2.00 	 b=10.00 	 c=2.00 	 Elso eredmeny x=-4.79 	 Masodik eredmeny y=-0.21
+a=5.00 	 b=3.00 	 c=6.00 	 Nem talalhato megoldas, mert a gyokjel alatt nem lehet kisebb szam mint 0!
+a=2.00 	 b=2.00 	 c=4.00 	 Nem talalhato megoldas, mert a gyokjel alatt nem lehet kisebb szam mint 0!
+a=7.00 	 b=3.00 	 c=5.00 	 Nem talalhato megoldas, mert a gyokjel alatt nem lehet kisebb szam mint 0!
+a=1.00 	 b=11.00 	 c=30.00 	 Elso eredmeny x=-6.00 	 Masodik eredmeny y=-5.00
+a=2.00 	 b=53.00 	 c=31.00 	 Elso eredmeny x=-25.90 	 Masodik eredmeny y=-0.60
